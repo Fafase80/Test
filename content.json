@@ -1,0 +1,143 @@
+{
+	"date": "2012-04-23T18:25:43.511Z",
+	"packages": [{
+			"name": "Login",
+			"description": "Basic Beacon login process",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.login"
+		},
+		{
+			"name": "ForceUpdate",
+			"description": "Basic ForceUpdate process to trigger on start when store got new release",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.forceupdate"
+		},
+		{
+			"name": "PlayerComm",
+			"description": "Client implementation for Player Comm",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com.puzzle.playercomm"
+		},{
+			"name": "Notification",
+			"description": "Basic Beacon login process",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.login"
+		},
+		{
+			"name": "Shop",
+			"description": "Basic ForceUpdate process to trigger on start when store got new release",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.forceupdate"
+		},
+		{
+			"name": "Editor tools",
+			"description": "Client implementation for Player Comm",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com.puzzle.playercomm"
+		},{
+			"name": "Settings",
+			"description": "Basic Beacon login process",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.login"
+		},
+		{
+			"name": "Scene Manager",
+			"description": "Basic ForceUpdate process to trigger on start when store got new release",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.forceupdate"
+		},
+		{
+			"name": "Apple login",
+			"description": "Client implementation for Player Comm",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com.puzzle.playercomm"
+		},{
+			"name": "Google Login",
+			"description": "Basic Beacon login process",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.login"
+		},
+		{
+			"name": "Facebook login",
+			"description": "Facebook login, requries facebook SDK from BEacon SDK",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.forceupdate"
+		},
+		{
+			"name": "Daily login",
+			"description": "Daily login reward",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com.puzzle.playercomm"
+		},{
+			"name": "Event manager",
+			"description": "Basic Beacon login process",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.login"
+		},
+		{
+			"name": "Signals manager",
+			"description": "Basic ForceUpdate process to trigger on start when store got new release",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.forceupdate"
+		},
+		{
+			"name": "Architecture",
+			"description": "Client implementation for Player Comm",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com.puzzle.playercomm"
+		},{
+			"name": "Play Login",
+			"description": "Basic Beacon login process",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.login"
+		},
+		{
+			"name": "ForceUpdate",
+			"description": "Basic ForceUpdate process to trigger on start when store got new release",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com..puzzle.forceupdate"
+		},
+		{
+			"name": "PlayerComm",
+			"description": "Client implementation for Player Comm",
+			"version": "0.0.0",
+			"changes": "Initial implementation",
+			"unityversion": "2019.0.0",
+			"path": "nexus.com.puzzle.playercomm"
+		}
+	]
+}
